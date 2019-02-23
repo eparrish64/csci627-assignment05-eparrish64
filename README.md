@@ -1,5 +1,5 @@
 # CSCI627 Assignment05 - Tableau
-In this assignment you will start with the github classroom link, create your own assignment repository, clone it to your computer, create a new tableau visualization, commit the changes, and push back the updated repository to github.
+In this assignment you will start with the github classroom link, create your own assignment repository, clone it to your computer, create two new tableau sessions, commit the changes, and push back the updated repository to github.
 
 ## Potential Resources:
 
@@ -15,6 +15,12 @@ In this assignment you will start with the github classroom link, create your ow
 	
 ## Learning Outcomes
 - Experience with tableau and using it for data visualization.
+- Produce the following visualizations
+	- Scatterplot
+	- Barchart
+	- Histogram
+- Manipulate data within Tableau
+- Create a map visualization using Tableau
 
 ## Directions (You cannot use hartley for this assignment!)
 1. Accept github classroom assignment via link provided in email or on slack.
